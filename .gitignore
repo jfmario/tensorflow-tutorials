@@ -4,3 +4,5 @@
 lost+found/
 .profile
 .sparkmagic
+
+ml-production-scale/models/
